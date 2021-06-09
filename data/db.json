@@ -1,0 +1,236 @@
+{
+	"employees": [
+		{
+			"fullName": "Roma O'Conner",
+			"email": "daniella89@friesen.com",
+			"phone": "+3710232017882",
+			"companyName": "Glover Group",
+			"status": "ACTIVE",
+			"id": "507bf58b-35ef-399b-b0ab-384797a3d77b"
+		},
+		{
+			"id": "4f86a75b-d9e7-30a1-be42-afdc03ccba62",
+			"fullName": "Devyn Rau",
+			"email": "brian.willms@gmail.com",
+			"phone": "+4461976463752",
+			"status": "ACTIVE",
+			"companyName": "Konopelski, O'Keefe and Hills"
+		},
+		{
+			"id": "716735e0-d0e6-39a9-b95a-44a13e66dae4",
+			"fullName": "Madge Wilkinson",
+			"email": "scole@keebler.net",
+			"phone": "+6164574401038",
+			"status": "ACTIVE",
+			"companyName": "Dooley, Bechtelar and Tromp"
+		},
+		{
+			"id": "f057a812-31a9-30cf-bf8e-f5500cdaa306",
+			"fullName": "Alex Will",
+			"email": "ona40@frami.com",
+			"phone": "+1078954532253",
+			"status": "ADDED",
+			"companyName": "Crist-Buckridge"
+		},
+		{
+			"id": "9bfa57b3-d840-3cd8-9bf6-aa16f9e6e764",
+			"fullName": "Enrico Graham",
+			"email": "yhessel@hotmail.com",
+			"phone": "+5086798697331",
+			"status": "ACTIVE",
+			"companyName": "Schamberger, Kub and Torphy"
+		},
+		{
+			"id": "0ba420e9-ea0e-379d-befa-4f32163ed13b",
+			"fullName": "Deshaun McKenzie",
+			"email": "reginald28@hotmail.com",
+			"phone": "+9406070399267",
+			"status": "ADDED",
+			"companyName": "Okuneva-Schuppe"
+		},
+		{
+			"id": "7704979d-f9ee-3a33-834c-209e356448fa",
+			"fullName": "Bethany Kreiger",
+			"email": "ullrich.abraham@hotmail.com",
+			"phone": "+8813257430706",
+			"status": "ACTIVE",
+			"companyName": "Goldner Ltd"
+		},
+		{
+			"id": "f8430268-0c7a-3959-a707-c521f7b9d747",
+			"fullName": "Edwardo Kreiger",
+			"email": "tboehm@mcglynn.org",
+			"phone": "+5054719147796",
+			"status": "ACTIVE",
+			"companyName": "Emard PLC"
+		},
+		{
+			"id": "2ce60de5-208d-3708-b93d-0ff663d0f9d7",
+			"fullName": "Kelli Lehner",
+			"email": "nitzsche.al@pagac.com",
+			"phone": "+4191748317968",
+			"status": "ADDED",
+			"companyName": "Gaylord Group"
+		},
+		{
+			"id": "d153dede-eb33-32d5-9834-261225ee9daf",
+			"fullName": "Elta Fay",
+			"email": "elissa12@bergnaum.com",
+			"phone": "+9425009059424",
+			"status": "INACTIVE",
+			"companyName": "Durgan, Renner and Cruickshank"
+		},
+		{
+			"id": "a9e415e5-5965-344f-9645-19e1c4cd3a77",
+			"fullName": "Alysa Sipes",
+			"email": "destin89@yahoo.com",
+			"phone": "+1746986750455",
+			"status": "ADDED",
+			"companyName": "Moen-Koch"
+		},
+		{
+			"id": "80119c10-596f-301e-a64f-281e793f3572",
+			"fullName": "Jody Hansen",
+			"email": "lydia.beatty@hotmail.com",
+			"phone": "+6055396923578",
+			"status": "ADDED",
+			"companyName": "Goyette and Sons"
+		},
+		{
+			"fullName": "Casimer Oberbrunner 2",
+			"email": "beier.elinor@gmail.com",
+			"phone": "+2485532709413",
+			"companyName": "Shanahan PLC",
+			"status": "INCHECK",
+			"id": "db0bb60f-0c83-33f7-bf7e-2a4389d7646c"
+		},
+		{
+			"id": "3975fb7a-28f3-3655-b41a-c0dc7da2ced6",
+			"fullName": "Teresa Hegmann",
+			"email": "rdibbert@hotmail.com",
+			"phone": "+2170720927451",
+			"status": "INCHECK",
+			"companyName": "Heller, Kris and Bailey"
+		},
+		{
+			"id": "a4f070f0-fad1-355f-9927-3c4c18404850",
+			"fullName": "Nicholaus Ankunding",
+			"email": "skeebler@hotmail.com",
+			"phone": "+7165457463374",
+			"status": "INCHECK",
+			"companyName": "Cronin-Haag"
+		},
+		{
+			"id": "d58be104-d98a-3592-8fc0-8ba56a4382a3",
+			"fullName": "Nicole Kohler",
+			"email": "beahan.gladys@hotmail.com",
+			"phone": "+6531219946637",
+			"status": "APPROVED",
+			"companyName": "Weissnat-Lehner"
+		},
+		{
+			"id": "dd83cf8c-8810-3829-8ba8-de76f728ed90",
+			"fullName": "Wilfred Hand",
+			"email": "gwuckert@bailey.com",
+			"phone": "+6557210464575",
+			"status": "APPROVED",
+			"companyName": "Turner, Hammes and Lindgren"
+		},
+		{
+			"id": "538191b0-9147-33ce-8602-7a5dbd9c1be7",
+			"fullName": "Tatyana Stoltenberg",
+			"email": "marietta.zboncak@hotmail.com",
+			"phone": "+4216726304437",
+			"status": "INCHECK",
+			"companyName": "Heaney LLC"
+		},
+		{
+			"id": "b68c678f-bb69-3795-a06d-10279dec76f6",
+			"fullName": "Vena Ondricka",
+			"email": "adams.nels@bashirian.com",
+			"phone": "+7909289580952",
+			"status": "INACTIVE",
+			"companyName": "Johnston, Terry and Rempel"
+		},
+		{
+			"id": "a2c747e1-2338-3f56-920b-7a39b44014ea",
+			"fullName": "Antoinette Nicolas",
+			"email": "maryse04@gleichner.com",
+			"phone": "+4464661986828",
+			"status": "INCHECK",
+			"companyName": "Hodkiewicz, Terry and Wolf"
+		},
+		{
+			"id": "eb464f30-8b4c-3968-9e9e-8385c087896b",
+			"fullName": "Jacky Ward",
+			"email": "telly40@jacobson.com",
+			"phone": "+9335283158080",
+			"status": "INCHECK",
+			"companyName": "Johnson Inc"
+		},
+		{
+			"id": "8df374c1-2571-3e47-be60-f47f6343ba06",
+			"fullName": "Gisselle Fisher",
+			"email": "grady.erica@yundt.com",
+			"phone": "+3570263055131",
+			"status": "INACTIVE",
+			"companyName": "Schulist-Koelpin"
+		},
+		{
+			"id": "97c0329d-0c48-31f7-ad77-5c77852ad334",
+			"fullName": "Kaley Bruen",
+			"email": "bode.kianna@swaniawski.com",
+			"phone": "+7377214147132",
+			"status": "INCHECK",
+			"companyName": "Gerhold-McDermott"
+		},
+		{
+			"id": "615b7665-80d4-3ed5-9466-8fb34f67f646",
+			"fullName": "Herbert Green",
+			"email": "clay24@pacocha.com",
+			"phone": "+9927195575942",
+			"status": "APPROVED",
+			"companyName": "Gislason-Huel"
+		},
+		{
+			"id": "1aca2898-0ab1-3ad3-ad78-6c4a3f9a7bf6",
+			"fullName": "Nelle Eichmann",
+			"email": "marta.padberg@yahoo.com",
+			"phone": "+6695382694163",
+			"status": "APPROVED",
+			"companyName": "Pacocha-Dooley"
+		},
+		{
+			"id": "2f416ff2-8397-3952-a4d1-7f20c6159eec",
+			"fullName": "Ella Kub",
+			"email": "derick79@rolfson.com",
+			"phone": "+9501785854088",
+			"status": "APPROVED",
+			"companyName": "Witting-Hayes"
+		},
+		{
+			"id": "75853b6c-0f02-3d4d-a4e0-ebc19b4503e0",
+			"fullName": "Eva Stokes",
+			"email": "hill.jena@gmail.com",
+			"phone": "+7382419325532",
+			"status": "ACTIVE",
+			"companyName": "Stark Ltd"
+		},
+		{
+			"id": "bfc54013-c0d5-3a76-b692-52008235d793",
+			"fullName": "Tristin Dooley",
+			"email": "beau.bauch@gmail.com",
+			"phone": "+3288392983662",
+			"status": "APPROVED",
+			"companyName": "Lowe, Frami and Bergnaum"
+		},
+		{
+			"id": "eb466c3c-30ee-3b05-b632-3ec6f7148016",
+			"fullName": "Carlos Bahringer",
+			"email": "branson.swift@gmail.com",
+			"phone": "+5677027301376",
+			"status": "APPROVED",
+			"companyName": "Reilly-Thompson"
+		}
+	]
+}
